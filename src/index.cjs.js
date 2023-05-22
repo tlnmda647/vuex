@@ -15,4 +15,5 @@ export default {
   mapActions,
   createNamespacedHelpers,
   createLogger
+  //
 }
